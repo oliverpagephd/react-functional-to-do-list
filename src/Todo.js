@@ -1,3 +1,4 @@
+  import "./Todo.css"
   export default function Todo({ todo, index, completeTodo, removeTodo }) {
     return (
       <div
